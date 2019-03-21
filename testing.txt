@@ -1,3 +1,4 @@
 Line 1 has been replaced!
-THis is line 1
-THis is line 2
+This is line 1
+This is line 2
+A fourth line
